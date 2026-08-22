@@ -1,6 +1,6 @@
 ## D. Spenser Nelson
 
-AI and automation consultant. I don't write the code. I set the standard it has to clear, then figure out how to prove it cleared it.
+AI and automation consultant. I direct the build, set the standard it has to clear, then figure out how to prove it cleared it.
 
 ### What's here
 
@@ -14,6 +14,6 @@ AI and automation consultant. I don't write the code. I set the standard it has 
 
 ### How I work
 
-I direct AI to build, I review what comes back, and I set the bar it has to clear. I do not write production code and I am not trying to. What I add is upstream of that: deciding what done means, what correct means, and what counts as evidence.
+I direct AI to build, I review what comes back, and I set the bar it has to clear. What I add is upstream of the code: deciding what done means, what correct means, and what counts as evidence.
 
 Chicago. Senior Consultant at rGen Consulting. MPP candidate at DePaul, certificate in Energy Policy and Management, expected 2027.
