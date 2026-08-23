@@ -2,18 +2,28 @@
 
 AI and automation consultant. I direct the build, set the standard it has to clear, then figure out how to prove it cleared it.
 
-### What's here
+Most of the work is in that last part. Getting a model to produce something that runs is easy now. Knowing whether it is right, and still knowing after you have stopped watching, is not.
 
-**[Baseload capacity gap](https://github.com/dspensernelson/Baseload-capacity-gap)** is a self-updating visualization of the US nuclear capacity gap. Every number traces to an NRC or EIA primary source, and it refreshes on 11 GitHub Actions crons. Once a week it re-derives its own figures from those sources and checks that they still match. That last part is the design. A pipeline that runs is not a pipeline that is correct, and the weekly re-derivation is what turns that difference into something I can actually see.
+### [Roy R. Fisher](https://github.com/dspensernelson/roy-r-fisher-app)
 
-[baseload-capacity-gap.vercel.app](https://baseload-capacity-gap.vercel.app)
+A commercial appraisal firm runs on this. Windows, offline, one machine, one user, and the output is a signed report that goes to a client.
 
-**[SignalFlow Lab](https://github.com/dspensernelson/SignalFlow-Lab)** is a React app for practicing workplace automation, built on a fictional energy-market workflow. It began as a question about how far a model could be pushed to build and to think. The specs, decision logs, and red-team cases in it are the standard the build had to clear, written before the build.
+[`HOW-WE-WORK.md`](https://github.com/dspensernelson/roy-r-fisher-app/blob/main/HOW-WE-WORK.md) is the standard the build had to clear. Never state a fact the app cannot observe, because a blank costs the appraiser ten seconds and a confident wrong answer reaches a client. Never generalize from one example. Point at where a value lives rather than copying it, because a copy drifts and then quietly lies. Every rule has the failure that produced it written next to it.
 
-[signal-flow-lab.vercel.app](https://signal-flow-lab.vercel.app)
+### [Baseload capacity gap](https://github.com/dspensernelson/Baseload-capacity-gap)
 
-### How I work
+Live at [baseload-capacity-gap.vercel.app](https://baseload-capacity-gap.vercel.app).
 
-I direct AI to build, I review what comes back, and I set the bar it has to clear. What I add is upstream of the code: deciding what done means, what correct means, and what counts as evidence.
+Every number traces to an NRC or EIA primary source, and it refreshes on 11 GitHub Actions crons. Once a week it re-derives its own figures from those sources and checks that they still match. A pipeline that runs is not a pipeline that is correct, and the weekly re-derivation is what turns that difference into something I can see.
+
+### [SignalFlow Lab](https://github.com/dspensernelson/SignalFlow-Lab)
+
+Live at [signal-flow-lab.vercel.app](https://signal-flow-lab.vercel.app).
+
+A React app for practicing workplace automation, built on a fictional energy-market workflow. It started as a question about how far a model could be pushed to build and to think. The specs, decision logs, and red-team cases in it are the standard the build had to clear, written before the build.
+
+---
+
+What I add is upstream of the code: deciding what done means, what correct means, and what counts as evidence.
 
 Chicago. Senior Consultant at rGen Consulting. MPP candidate at DePaul, certificate in Energy Policy and Management, expected 2027.
