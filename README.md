@@ -1,8 +1,8 @@
 ## D. Spenser Nelson
 
-AI and automation consultant. I direct the build, set the standard it has to clear, then figure out how to prove it cleared it.
+Chicago. AI and automation consultant, currently Senior Consultant at rGen Consulting. MPP candidate at DePaul with a certificate in Energy Policy and Management, expected 2027, which is where the energy work below comes from.
 
-Most of the work is in that last part. Getting a model to produce something that runs is easy now. Knowing whether it is right, and still knowing after you have stopped watching, is not.
+I direct the build, set the standard it has to clear, then figure out how to prove it cleared it. Most of the work is in that last part. Getting a model to produce something that runs is easy now. Knowing whether it is right, and still knowing after you have stopped watching, is not.
 
 ### [Roy R. Fisher](https://github.com/dspensernelson/roy-r-fisher-app)
 
@@ -25,5 +25,3 @@ A React app for practicing workplace automation, built on a fictional energy-mar
 ---
 
 What I add is upstream of the code: deciding what done means, what correct means, and what counts as evidence.
-
-Chicago. Senior Consultant at rGen Consulting. MPP candidate at DePaul, certificate in Energy Policy and Management, expected 2027.
