@@ -6,7 +6,7 @@ I direct the build, set the standard it has to clear, then figure out how to pro
 
 ### [Roy R. Fisher](https://github.com/dspensernelson/roy-r-fisher-app)
 
-A Windows desktop app for producing commercial appraisal reports, built for one appraiser who has written them in Word for decades. One section builds today: photo pages, which produce a real Word file. The rest of the report is laid out on screen so its true shape is visible, and every part of it says plainly that it is not ready yet.
+A Windows desktop app for producing commercial appraisal reports, built for one appraiser who has written them in Word for decades. Python server, React screens, running offline on a single machine. It creates a job from a form and lays down his own eight folders on disk, named the way he names them. It reads what has actually arrived in those folders and shows it against what the report still needs. It proposes which sections a report requires from the kind of appraisal, and it builds them into real Word files, starting with the photo pages. 335 tests.
 
 [`HOW-WE-WORK.md`](https://github.com/dspensernelson/roy-r-fisher-app/blob/main/HOW-WE-WORK.md) is the standard the build had to clear. Never state a fact the app cannot observe, because a blank costs the appraiser ten seconds and a confident wrong answer reaches a client. Never generalize from one example. Point at where a value lives rather than copying it, because a copy drifts and then quietly lies. Several rules carry the specific failure that produced them: a title page that looked wrong against one report and matched seven of the other nine, a brand colour that sat wrong for months because it was written out instead of pointed at.
 
