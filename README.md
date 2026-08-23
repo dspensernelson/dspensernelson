@@ -6,7 +6,7 @@ I direct the build, set the standard it has to clear, then figure out how to pro
 
 ### [Roy R. Fisher](https://github.com/dspensernelson/roy-r-fisher-app)
 
-A commercial appraisal firm runs on this. Windows, offline, one machine, one user, and the output is a signed report that goes to a client.
+A Windows desktop app for producing commercial appraisal reports, built for one appraiser who has written them in Word for decades. One section builds today: photo pages, which produce a real Word file. The rest of the report is laid out on screen so its true shape is visible, and every part of it says plainly that it is not ready yet.
 
 [`HOW-WE-WORK.md`](https://github.com/dspensernelson/roy-r-fisher-app/blob/main/HOW-WE-WORK.md) is the standard the build had to clear. Never state a fact the app cannot observe, because a blank costs the appraiser ten seconds and a confident wrong answer reaches a client. Never generalize from one example. Point at where a value lives rather than copying it, because a copy drifts and then quietly lies. Every rule has the failure that produced it written next to it.
 
