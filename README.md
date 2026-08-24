@@ -1,6 +1,6 @@
 # Spenser Nelson
 
-Chicago-based AI and automation consultant, currently Senior Consultant at rGen Consulting. I am also an MPP candidate at DePaul with a certificate in Energy Policy and Management, expected 2027. The energy-policy work below grew out of that study.
+Chicago-based AI and automation consultant, currently Senior Consultant at rGen Consulting. I am also an MPP Student at DePaul focusing on an certificate in Energy Policy and Management, expected 2027. The energy-policy work below grew out of that study.
 
 I direct the build, set the standard it has to clear, then figure out how to prove it cleared it. Most of the work is in that last part. Getting a model to produce something that runs is easy now. Knowing whether it is right, and still knowing after you have stopped watching, is not.
 
